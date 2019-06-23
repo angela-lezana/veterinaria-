@@ -23,3 +23,15 @@ C:\Users\maxco\Desktop\Veterinario_\obj\Debug\Veterinario_.View.Consulta.resourc
 C:\Users\maxco\Desktop\Veterinario_\obj\Debug\Veterinario_.View.IngresarClienteyMascota.resources
 C:\Users\maxco\Desktop\Veterinario_\obj\Debug\Veterinario_.View.IngresodeConsulta.resources
 C:\Users\maxco\Desktop\Veterinario_\obj\Debug\Veterinario_.csproj.GenerateResource.Cache
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\bin\Debug\Veterinario_.exe.config
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.exe
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.pdb
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\bin\Debug\Veterinario_.exe
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\bin\Debug\Veterinario_.pdb
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.csprojResolveAssemblyReference.cache
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.Form1.resources
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.Properties.Resources.resources
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.View.Consulta.resources
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.View.IngresarClienteyMascota.resources
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.View.IngresodeConsulta.resources
+C:\Users\maxco\Desktop\veterinaria\veterinaria-\Veterinario_\obj\Debug\Veterinario_.csproj.GenerateResource.Cache

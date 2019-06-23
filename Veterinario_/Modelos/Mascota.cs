@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Veterinario_.Modelos
 {
-    class Mascota
+    public class Mascota
     {
         public string TipoDeMascota { get; set; }
         public string Raza { get; set; }
